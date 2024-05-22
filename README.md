@@ -1,13 +1,3 @@
 yRecycle
 ========
-This is an Educational recycling app, and we are still in the developing process.
-
-THIS APP WILL HOPEFULLY BE OUT FOR APPLE BY JAN 15.
-ANDROID APP RELEASE TBD.......
-
-
-yRecycle Android App
-
-
-
-AppsToKnow is developing the Apple/IOS App.
+This was a school project of mine in 2014, since discontinued, as the apple developer account was removed.
